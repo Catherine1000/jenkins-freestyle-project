@@ -1,1 +1,1 @@
-echo 'from a webhook'
+echo 'Hello from run.sh!'
